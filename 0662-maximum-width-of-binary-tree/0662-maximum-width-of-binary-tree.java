@@ -16,9 +16,9 @@
 
 class Pair {
     TreeNode node;
-    int idx;
+    long idx;
 
-    public Pair(TreeNode node, int idx) {
+    public Pair(TreeNode node, long idx) {
         this.node = node;
         this.idx = idx;
     }
@@ -32,22 +32,22 @@ class Solution {
 
         while(!q.isEmpty()) {
             int levelSize = q.size();
-            int sIdx = q.peek().idx;
-            int eIdx = sIdx;
+            long sIdx = q.peek().idx;
+            long eIdx = sIdx;
 
             for(int j=0; j<levelSize; j++) {
                 Pair p = q.poll();
                 TreeNode curr = p.node;
-                int i = p.idx;
+                long i = p.idx;
 
                 eIdx = i;
                 if(curr.left != null)
-                    q.offer(new Pair(curr.left, 2*i+1));
+                    q.offer(new Pair(curr.left, (int)2*i+1));
                 if(curr.right != null)
-                    q.offer(new Pair(curr.right, 2*i+2));
+                    q.offer(new Pair(curr.right, (int)2*i+2));
             }
             
-            maxWidth = Math.max(maxWidth, eIdx - sIdx + 1);
+            maxWidth = Math.max(maxWidth, (int)(eIdx - sIdx + 1));
         }
 
         return maxWidth;
