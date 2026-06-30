@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
