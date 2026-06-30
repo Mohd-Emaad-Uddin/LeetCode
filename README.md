@@ -27,8 +27,10 @@
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
