@@ -55,6 +55,7 @@
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0162-find-peak-element) |
+| [0633-sum-of-square-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +68,12 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0633-sum-of-square-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
