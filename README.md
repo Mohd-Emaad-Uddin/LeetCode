@@ -15,6 +15,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +63,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -76,4 +80,8 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0633-sum-of-square-numbers) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
