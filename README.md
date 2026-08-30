@@ -15,6 +15,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -23,6 +24,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -47,6 +50,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Array
 |  |
