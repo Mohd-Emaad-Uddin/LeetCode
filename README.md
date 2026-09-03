@@ -13,6 +13,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
@@ -26,6 +27,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0112-path-sum) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -40,6 +42,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
@@ -56,6 +59,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -84,6 +88,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -112,6 +117,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -124,4 +130,8 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
