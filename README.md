@@ -72,11 +72,13 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0162-find-peak-element) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
@@ -124,6 +126,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -141,8 +144,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
