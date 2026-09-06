@@ -75,6 +75,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
