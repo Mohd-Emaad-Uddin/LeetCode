@@ -9,21 +9,22 @@ class Pair implements Comparable<Pair> {
 
     public int compareTo(Pair p) {
         if(this.freq == p.freq)
-            return Integer.compare(this.ch, p.ch);
+            return Character.compare(this.ch, p.ch);
         return Integer.compare(this.freq, p.freq);
     }
 }
 
 class Solution {
     public String reorganizeString(String s) {
-        Map<Character, Integer> map = new HashMap<>();
+        int[] hash = new int[26];
         for(char ch: s.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+            hash[ch-'a']++;
         }
 
         PriorityQueue<Pair> pq = new PriorityQueue<>(Collections.reverseOrder());
-        for(char ch: map.keySet()) {
-            pq.add(new Pair(ch, map.get(ch)));
+        for(int i=0; i<26; i++) {
+            if(hash[i] > 0)
+                pq.add(new Pair((char)(i + 'a'), hash[i]));
         }
 
         StringBuilder sb = new StringBuilder();
@@ -32,18 +33,16 @@ class Solution {
         while(!pq.isEmpty()) {
             Pair curr = pq.remove();
             sb.append(curr.ch);
+
             curr.freq--;
-
-            if(prev != null && prev.freq > 0) {
+            if(prev != null && prev.freq > 0)
                 pq.add(prev);
-            }
-
+            
             prev = curr;
         }
-        if(prev != null && prev.freq > 0) {
-            return "";
-        }
 
+        if(s.length() != sb.length())
+            return "";
         return sb.toString();
-    }   
+    }
 }
