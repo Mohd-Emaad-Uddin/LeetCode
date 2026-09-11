@@ -80,6 +80,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1046-last-stone-weight) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 ## String
@@ -146,6 +148,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -175,6 +178,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
@@ -199,6 +203,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 ## Geometry
@@ -220,6 +225,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 ## Merge Sort
 |  |
