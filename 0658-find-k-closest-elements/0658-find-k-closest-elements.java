@@ -15,6 +15,8 @@ class Pair implements Comparable<Pair> {
 
 class Solution {
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
+        // Heap Solution
+        /*
         PriorityQueue<Pair> pq = new PriorityQueue<>(Collections.reverseOrder());
 
         for(int num: arr) {
@@ -30,6 +32,22 @@ class Solution {
         }
 
         Collections.sort(list);
+        return list;
+        */
+
+        // Two Pointers Solution - Better Approach
+        int low = 0, high = arr.length - 1;
+        while(high - low >= k) {
+            if(Math.abs(x - arr[low]) > Math.abs(x - arr[high]))
+                low++;
+            else
+                high--;
+        }
+        List<Integer> list = new ArrayList<>();
+        for(int i=low; i<low+k; i++) {
+            list.add(arr[i]);
+        }
+
         return list;
     }
 }
