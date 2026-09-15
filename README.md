@@ -80,6 +80,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## DP on Trees
@@ -161,6 +163,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -245,6 +248,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 ## Merge Sort
@@ -272,4 +276,8 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0480-sliding-window-median) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
