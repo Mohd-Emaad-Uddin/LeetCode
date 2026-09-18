@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0162-find-peak-element) |
@@ -101,6 +102,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -252,6 +254,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
