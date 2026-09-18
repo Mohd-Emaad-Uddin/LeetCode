@@ -75,6 +75,7 @@
 | [0045-jump-game-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0057-insert-interval) |
 | [0119-pascals-triangle-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0162-find-peak-element) |
