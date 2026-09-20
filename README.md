@@ -112,6 +112,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -163,6 +164,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 ## Sorting
@@ -265,6 +267,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0860-lemonade-change) |
 ## Merge Sort
@@ -296,4 +299,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
