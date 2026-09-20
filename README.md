@@ -77,6 +77,7 @@
 | [0055-jump-game](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0057-insert-interval) |
 | [0119-pascals-triangle-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -260,6 +261,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
