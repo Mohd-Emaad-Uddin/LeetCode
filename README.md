@@ -129,6 +129,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -137,6 +138,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0480-sliding-window-median) |
@@ -311,4 +314,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
