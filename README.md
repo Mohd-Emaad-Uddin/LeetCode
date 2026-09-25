@@ -129,6 +129,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0067-add-binary) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -318,4 +320,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
