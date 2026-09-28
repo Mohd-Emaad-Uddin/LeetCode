@@ -29,6 +29,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -62,6 +63,7 @@
 | [0112-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -82,6 +84,7 @@
 | [0135-candy](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0228-summary-ranges) |
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -238,6 +241,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
@@ -333,6 +337,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
