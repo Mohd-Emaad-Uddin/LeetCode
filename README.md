@@ -34,6 +34,7 @@
 | [0547-number-of-provinces](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -72,6 +73,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -101,6 +103,7 @@
 | [0733-flood-fill](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1046-last-stone-weight) |
 | [2542-maximum-subsequence-score](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -247,6 +250,7 @@
 | [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -343,6 +347,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
