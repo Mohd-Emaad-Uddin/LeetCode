@@ -8,11 +8,11 @@ class Pair {
 
 class Solution {
 
-    public void helper(int[][] ans, int sr, int sc, int color, int n, int m, boolean[][] visited) {
+    public void helper(int[][] ans, int sr, int sc, int color, int n, int m) {
         int num = ans[sr][sc];
         Queue<Pair> q = new LinkedList<>();
         q.offer(new Pair(sr, sc));
-        visited[sr][sc] = true;
+
         ans[sr][sc] = color;
 
         int[] dRow = {-1, 1, 0, 0};
@@ -27,9 +27,8 @@ class Solution {
                 int nRow = row + dRow[i];
                 int nCol = col + dCol[i];
 
-                if(nRow >= 0 && nRow < n && nCol >= 0 && nCol < m && !visited[nRow][nCol] && ans[nRow][nCol] == num) {
+                if(nRow >= 0 && nRow < n && nCol >= 0 && nCol < m && ans[nRow][nCol] == num) {
                     ans[nRow][nCol] = color;
-                    visited[nRow][nCol] = true;
                     q.offer(new Pair(nRow, nCol));
                 }
             }
@@ -40,9 +39,10 @@ class Solution {
         int n = image.length;
         int m = image[0].length;
 
-        // int[][] ans = image.clone();
-        helper(image, sr, sc, color, n, m, new boolean[n][m]);
+        if(image[sr][sc] == color)
+            return image;
 
+        helper(image, sr, sc, color, n, m);
         return image;
     }
 }
