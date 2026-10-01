@@ -37,6 +37,7 @@
 | [0994-rotting-oranges](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1765-map-of-highest-peak](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1765-map-of-highest-peak) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0994-rotting-oranges](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1046-last-stone-weight) |
+| [1765-map-of-highest-peak](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2542-maximum-subsequence-score](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -254,6 +256,7 @@
 | [0733-flood-fill](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1765-map-of-highest-peak](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1765-map-of-highest-peak) |
 ## Bucket Sort
 |  |
 | ------- |
