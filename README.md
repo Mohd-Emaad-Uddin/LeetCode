@@ -90,6 +90,7 @@
 | [0055-jump-game](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0057-insert-interval) |
 | [0119-pascals-triangle-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -359,6 +361,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0547-number-of-provinces) |
