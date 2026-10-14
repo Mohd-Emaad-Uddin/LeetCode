@@ -11,6 +11,7 @@
 | [0112-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -33,6 +34,7 @@
 | [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0547-number-of-provinces) |
@@ -52,6 +54,7 @@
 | [0112-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -75,6 +78,7 @@
 | [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
