@@ -122,6 +122,7 @@
 | [0994-rotting-oranges](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1046-last-stone-weight) |
+| [1480-running-sum-of-1d-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1765-map-of-highest-peak](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2542-maximum-subsequence-score](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -389,4 +390,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
