@@ -30,6 +30,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0207-course-schedule) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -204,6 +206,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0067-add-binary) |
+| [0127-word-ladder](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0127-word-ladder) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -398,4 +401,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
