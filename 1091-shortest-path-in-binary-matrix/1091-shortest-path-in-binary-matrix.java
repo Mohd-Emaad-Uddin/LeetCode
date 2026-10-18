@@ -10,6 +10,9 @@ class Triplet {
 
 class Solution {
 
+    private int[] dRow = {-1, -1, -1, 0, 1, 1, 1, 0};
+    private int[] dCol = {-1,  0,  1, 1, 1, 0, -1, -1};
+
     public int shortestPathBinaryMatrix(int[][] mat) {
         int n = mat.length;
 
@@ -21,9 +24,6 @@ class Solution {
 
         Queue<Triplet> q = new LinkedList<>();
         q.offer(new Triplet(0, 0, 0));
-
-        int[] dRow = {-1, -1, -1, 0, 1, 1, 1, 0};
-        int[] dCol = {-1,  0,  1, 1, 1, 0, -1, -1};
 
         while(!q.isEmpty()) {
             Triplet t = q.poll();
