@@ -157,6 +157,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -403,11 +404,13 @@
 | [0210-course-schedule-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -424,8 +427,10 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
