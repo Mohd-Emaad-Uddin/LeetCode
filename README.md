@@ -224,6 +224,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
+| [1678-goal-parser-interpretation](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1678-goal-parser-interpretation) |
 ## Sorting
 |  |
 | ------- |
