@@ -135,6 +135,7 @@
 | [1512-number-of-good-pairs](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1765-map-of-highest-peak) |
+| [1929-concatenation-of-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2542-maximum-subsequence-score](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -393,6 +394,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Union-Find
 |  |
 | ------- |
