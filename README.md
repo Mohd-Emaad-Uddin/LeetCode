@@ -131,6 +131,7 @@
 | [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -213,6 +214,7 @@
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -241,6 +243,7 @@
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2542-maximum-subsequence-score](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Linked List
 |  |
@@ -454,4 +457,8 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
