@@ -138,6 +138,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1765-map-of-highest-peak](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2542-maximum-subsequence-score](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -232,6 +233,7 @@
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 | [1678-goal-parser-interpretation](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
@@ -405,6 +407,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Union-Find
 |  |
 | ------- |
