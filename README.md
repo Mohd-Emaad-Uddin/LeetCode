@@ -142,6 +142,7 @@
 | [1929-concatenation-of-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2542-maximum-subsequence-score](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -318,6 +319,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1765-map-of-highest-peak) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
