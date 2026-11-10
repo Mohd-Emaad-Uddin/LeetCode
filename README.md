@@ -132,6 +132,7 @@
 | [1046-last-stone-weight](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -258,6 +259,7 @@
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2542-maximum-subsequence-score](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Linked List
 |  |
@@ -298,6 +300,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2542-maximum-subsequence-score](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
