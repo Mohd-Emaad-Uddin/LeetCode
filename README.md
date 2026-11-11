@@ -131,6 +131,7 @@
 | [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1470-shuffle-the-array) |
