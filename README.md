@@ -219,6 +219,7 @@
 | [0202-happy-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0389-find-the-difference) |
 | [0480-sliding-window-median](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -233,6 +234,7 @@
 | [0049-group-anagrams](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0127-word-ladder) |
+| [0389-find-the-difference](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0389-find-the-difference) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -252,6 +254,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
@@ -414,6 +417,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
