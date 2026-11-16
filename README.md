@@ -192,6 +192,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2469-convert-the-temperature](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
