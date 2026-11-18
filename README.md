@@ -146,6 +146,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2542-maximum-subsequence-score](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2542-maximum-subsequence-score) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
