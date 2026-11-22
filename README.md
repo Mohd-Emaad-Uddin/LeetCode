@@ -230,6 +230,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -247,6 +248,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
