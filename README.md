@@ -137,6 +137,7 @@
 | [1470-shuffle-the-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -440,6 +441,7 @@
 | [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -450,6 +452,7 @@
 | [0743-network-delay-time](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -499,4 +502,20 @@
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1859-sorting-the-sentence) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
