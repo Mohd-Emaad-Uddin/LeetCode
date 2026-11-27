@@ -40,6 +40,7 @@
 | [0542-01-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -90,6 +91,7 @@
 | [0547-number-of-provinces](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0721-accounts-merge](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -124,6 +126,7 @@
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -227,6 +230,7 @@
 | [0480-sliding-window-median](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -244,6 +248,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 | [1108-defanging-an-ip-address](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -267,6 +272,7 @@
 | [0621-task-scheduler](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -440,6 +446,7 @@
 | [0130-surrounded-regions](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1631-path-with-minimum-effort) |
