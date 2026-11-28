@@ -147,6 +147,7 @@
 | [1765-map-of-highest-peak](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1929-concatenation-of-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2542-maximum-subsequence-score](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2542-maximum-subsequence-score) |
@@ -209,6 +210,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## DP on Trees
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mohd-Emaad-Uddin/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
